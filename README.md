@@ -137,7 +137,7 @@ wish tklauncher-46.tcl --update-cache
 
 ## Лицензия
 
-##GPLv3.0
+## GPLv3.0
 
 ## Контакты
 
